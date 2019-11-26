@@ -1,0 +1,10 @@
+---
+title: "About the Project"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+This is a little bit more about our project 
